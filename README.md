@@ -1,4 +1,4 @@
-## Hi there 👋
+## Sup 👋
 
 skills to world class:
 - capably read code
