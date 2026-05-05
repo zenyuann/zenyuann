@@ -1,6 +1,4 @@
-## Sup 👋
-
-skills to world class:
+# Sup 👋, I'm going for world class...
 
 ## Code Manipulation
 - Capably read the coding language the code is written in
